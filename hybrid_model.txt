@@ -1,0 +1,1 @@
+Now we are doning the git bash to jenkins
