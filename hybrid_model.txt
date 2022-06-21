@@ -1,0 +1,2 @@
+Now we are doning the git bash to jenkins
+git to github to jenkins
